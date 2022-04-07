@@ -1,0 +1,15 @@
+C:\CodeWars\CodeWarsTasks\IsThisTriangle\obj\Debug\net6.0\IsThisTriangle.csproj.AssemblyReference.cache
+C:\CodeWars\CodeWarsTasks\IsThisTriangle\obj\Debug\net6.0\IsThisTriangle.GeneratedMSBuildEditorConfig.editorconfig
+C:\CodeWars\CodeWarsTasks\IsThisTriangle\obj\Debug\net6.0\IsThisTriangle.AssemblyInfoInputs.cache
+C:\CodeWars\CodeWarsTasks\IsThisTriangle\obj\Debug\net6.0\IsThisTriangle.AssemblyInfo.cs
+C:\CodeWars\CodeWarsTasks\IsThisTriangle\obj\Debug\net6.0\IsThisTriangle.csproj.CoreCompileInputs.cache
+C:\CodeWars\CodeWarsTasks\IsThisTriangle\bin\Debug\net6.0\IsThisTriangle.exe
+C:\CodeWars\CodeWarsTasks\IsThisTriangle\bin\Debug\net6.0\IsThisTriangle.deps.json
+C:\CodeWars\CodeWarsTasks\IsThisTriangle\bin\Debug\net6.0\IsThisTriangle.runtimeconfig.json
+C:\CodeWars\CodeWarsTasks\IsThisTriangle\bin\Debug\net6.0\IsThisTriangle.dll
+C:\CodeWars\CodeWarsTasks\IsThisTriangle\bin\Debug\net6.0\IsThisTriangle.pdb
+C:\CodeWars\CodeWarsTasks\IsThisTriangle\obj\Debug\net6.0\IsThisTriangle.dll
+C:\CodeWars\CodeWarsTasks\IsThisTriangle\obj\Debug\net6.0\refint\IsThisTriangle.dll
+C:\CodeWars\CodeWarsTasks\IsThisTriangle\obj\Debug\net6.0\IsThisTriangle.pdb
+C:\CodeWars\CodeWarsTasks\IsThisTriangle\obj\Debug\net6.0\IsThisTriangle.genruntimeconfig.cache
+C:\CodeWars\CodeWarsTasks\IsThisTriangle\obj\Debug\net6.0\ref\IsThisTriangle.dll

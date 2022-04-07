@@ -1,0 +1,15 @@
+C:\CodeWars\CodeWarsTasks\BinaryAddition\bin\Debug\net6.0\BinaryAddition.exe
+C:\CodeWars\CodeWarsTasks\BinaryAddition\bin\Debug\net6.0\BinaryAddition.deps.json
+C:\CodeWars\CodeWarsTasks\BinaryAddition\bin\Debug\net6.0\BinaryAddition.runtimeconfig.json
+C:\CodeWars\CodeWarsTasks\BinaryAddition\bin\Debug\net6.0\BinaryAddition.dll
+C:\CodeWars\CodeWarsTasks\BinaryAddition\bin\Debug\net6.0\BinaryAddition.pdb
+C:\CodeWars\CodeWarsTasks\BinaryAddition\obj\Debug\net6.0\BinaryAddition.csproj.AssemblyReference.cache
+C:\CodeWars\CodeWarsTasks\BinaryAddition\obj\Debug\net6.0\BinaryAddition.GeneratedMSBuildEditorConfig.editorconfig
+C:\CodeWars\CodeWarsTasks\BinaryAddition\obj\Debug\net6.0\BinaryAddition.AssemblyInfoInputs.cache
+C:\CodeWars\CodeWarsTasks\BinaryAddition\obj\Debug\net6.0\BinaryAddition.AssemblyInfo.cs
+C:\CodeWars\CodeWarsTasks\BinaryAddition\obj\Debug\net6.0\BinaryAddition.csproj.CoreCompileInputs.cache
+C:\CodeWars\CodeWarsTasks\BinaryAddition\obj\Debug\net6.0\BinaryAddition.dll
+C:\CodeWars\CodeWarsTasks\BinaryAddition\obj\Debug\net6.0\refint\BinaryAddition.dll
+C:\CodeWars\CodeWarsTasks\BinaryAddition\obj\Debug\net6.0\BinaryAddition.pdb
+C:\CodeWars\CodeWarsTasks\BinaryAddition\obj\Debug\net6.0\BinaryAddition.genruntimeconfig.cache
+C:\CodeWars\CodeWarsTasks\BinaryAddition\obj\Debug\net6.0\ref\BinaryAddition.dll

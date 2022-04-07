@@ -1,0 +1,15 @@
+C:\CodeWars\CodeWarsTasks\CodeWarsTasks\obj\Debug\net6.0\CodeWarsTasks.csproj.AssemblyReference.cache
+C:\CodeWars\CodeWarsTasks\CodeWarsTasks\obj\Debug\net6.0\CodeWarsTasks.GeneratedMSBuildEditorConfig.editorconfig
+C:\CodeWars\CodeWarsTasks\CodeWarsTasks\obj\Debug\net6.0\CodeWarsTasks.AssemblyInfoInputs.cache
+C:\CodeWars\CodeWarsTasks\CodeWarsTasks\obj\Debug\net6.0\CodeWarsTasks.AssemblyInfo.cs
+C:\CodeWars\CodeWarsTasks\CodeWarsTasks\obj\Debug\net6.0\CodeWarsTasks.csproj.CoreCompileInputs.cache
+C:\CodeWars\CodeWarsTasks\CodeWarsTasks\bin\Debug\net6.0\CodeWarsTasks.exe
+C:\CodeWars\CodeWarsTasks\CodeWarsTasks\bin\Debug\net6.0\CodeWarsTasks.deps.json
+C:\CodeWars\CodeWarsTasks\CodeWarsTasks\bin\Debug\net6.0\CodeWarsTasks.runtimeconfig.json
+C:\CodeWars\CodeWarsTasks\CodeWarsTasks\bin\Debug\net6.0\CodeWarsTasks.dll
+C:\CodeWars\CodeWarsTasks\CodeWarsTasks\bin\Debug\net6.0\CodeWarsTasks.pdb
+C:\CodeWars\CodeWarsTasks\CodeWarsTasks\obj\Debug\net6.0\CodeWarsTasks.dll
+C:\CodeWars\CodeWarsTasks\CodeWarsTasks\obj\Debug\net6.0\refint\CodeWarsTasks.dll
+C:\CodeWars\CodeWarsTasks\CodeWarsTasks\obj\Debug\net6.0\CodeWarsTasks.pdb
+C:\CodeWars\CodeWarsTasks\CodeWarsTasks\obj\Debug\net6.0\CodeWarsTasks.genruntimeconfig.cache
+C:\CodeWars\CodeWarsTasks\CodeWarsTasks\obj\Debug\net6.0\ref\CodeWarsTasks.dll

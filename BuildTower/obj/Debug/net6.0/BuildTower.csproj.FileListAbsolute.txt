@@ -1,0 +1,15 @@
+C:\CodeWars\CodeWarsTasks\BuildTower\bin\Debug\net6.0\BuildTower.exe
+C:\CodeWars\CodeWarsTasks\BuildTower\bin\Debug\net6.0\BuildTower.deps.json
+C:\CodeWars\CodeWarsTasks\BuildTower\bin\Debug\net6.0\BuildTower.runtimeconfig.json
+C:\CodeWars\CodeWarsTasks\BuildTower\bin\Debug\net6.0\BuildTower.dll
+C:\CodeWars\CodeWarsTasks\BuildTower\bin\Debug\net6.0\BuildTower.pdb
+C:\CodeWars\CodeWarsTasks\BuildTower\obj\Debug\net6.0\BuildTower.csproj.AssemblyReference.cache
+C:\CodeWars\CodeWarsTasks\BuildTower\obj\Debug\net6.0\BuildTower.GeneratedMSBuildEditorConfig.editorconfig
+C:\CodeWars\CodeWarsTasks\BuildTower\obj\Debug\net6.0\BuildTower.AssemblyInfoInputs.cache
+C:\CodeWars\CodeWarsTasks\BuildTower\obj\Debug\net6.0\BuildTower.AssemblyInfo.cs
+C:\CodeWars\CodeWarsTasks\BuildTower\obj\Debug\net6.0\BuildTower.csproj.CoreCompileInputs.cache
+C:\CodeWars\CodeWarsTasks\BuildTower\obj\Debug\net6.0\BuildTower.dll
+C:\CodeWars\CodeWarsTasks\BuildTower\obj\Debug\net6.0\refint\BuildTower.dll
+C:\CodeWars\CodeWarsTasks\BuildTower\obj\Debug\net6.0\BuildTower.pdb
+C:\CodeWars\CodeWarsTasks\BuildTower\obj\Debug\net6.0\BuildTower.genruntimeconfig.cache
+C:\CodeWars\CodeWarsTasks\BuildTower\obj\Debug\net6.0\ref\BuildTower.dll
